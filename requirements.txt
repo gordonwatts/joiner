@@ -1,0 +1,3 @@
+servicex>=3.0.0.a2
+jupyterlab
+matplotlib
