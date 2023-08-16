@@ -160,3 +160,4 @@ cython_debug/
 #.idea/
 .servicex
 sx_cache/
+servicex.yaml

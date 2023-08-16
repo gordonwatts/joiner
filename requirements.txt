@@ -1,4 +1,4 @@
-servicex>=3.0.0.a2
+servicex>=3.0.0.a4
 jupyterlab
 matplotlib
 func_adl_servicex_xaodr22
